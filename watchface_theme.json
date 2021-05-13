@@ -1,0 +1,57 @@
+{
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font_color": "#383728",
+      "align": "center",
+      "font_size": 32,
+      "x_offset": 0,
+      "y_offset": 160,
+      "x_size": 240,
+      "y_size": 35
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%Y-%m-%d",
+      "font_color": "#383728",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 0,
+      "y_offset": 195,
+      "x_size": 240,
+      "y_size": 20
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font_color": "#383728",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 135,
+      "y_offset": 122,
+      "x_size": 70,
+      "y_size": 20
+    },
+    {
+      "enable": true,
+      "type": "steps",
+      "label": "%d steps",
+      "font_color": "#383728",
+      "align": "left",
+      "font_size": 16,
+      "x_offset": 28,
+      "y_offset": 50,
+      "x_size": 70,
+      "y_size": 20
+    }
+  ]
+}

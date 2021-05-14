@@ -4,7 +4,7 @@ A watchface for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch) insp
 
 # Download
 
-Download package from [releases](https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest)
+Download package from [releases](https://github.com/guyou/my-ttgo-watch-face-pokemon/releases/latest)
 
 # References
 
